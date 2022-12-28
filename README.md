@@ -1,5 +1,4 @@
 <h1>Hi there 👋, I am Yaekob</h1>
-<h1> Passionate full-stack developer from Ethiopia </h1>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Jamescog&show_icons=true&theme=radical" ?>
 
 
