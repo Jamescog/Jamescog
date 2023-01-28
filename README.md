@@ -1,4 +1,5 @@
 <h1>Hi there 👋, I am Yaekob</h1>
+<h2> I am a backend developer with basic knowledge of front-end technologies</h2>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Jamescog&show_icons=true&theme=radical" ?>
 
 
