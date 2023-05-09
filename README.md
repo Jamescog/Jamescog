@@ -23,9 +23,10 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </div>
 <br>
-<img  width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamescog&layout=compact"/>
-<img  width="70%" src="https://github-readme-stats.vercel.app/api?username=Jamescog&show_icons=true&theme=radical" ?>
-
+<div>
+  <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamescog&layout=compactsize_weight=0.5&count_weight=0.5"/>
+  <img  width="40%" src="https://github-readme-stats.vercel.app/api?username=Jamescog&show_icons=true&theme=radical" ?>
+</div>
 <br>
 
 
