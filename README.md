@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Backend Development and Automation**
 
-- 💬 Ask me about **Python, JavaScript, Flask, Nodejs,Express,MongoDB,**
+- 💬 Ask me about **Python, JavaScript, Flask, Nodejs,Express,MySQL, SQLite,MongoDB,**
 
 - 📫 How to reach me **jamescog72@gmail.com**
 
