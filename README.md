@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaekob Demisse</h1>
-<h3 align="center">A passionate Web developer From Ethiopia</h3>
+<h3 align="center">A passionate Backend Developer From Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jamescog&label=Profile%20views&color=0e75b6&style=flat" alt="jamesocg" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Fenote E-learning site](https://github.com/Jamescog/Fenote)
 
-- 🌱 I’m currently learning **Go, Typescript and React**
+- 🌱 I’m currently learning **Go, Typescript**
 
 - 👯 I’m looking to collaborate on **Backend Development and Automation**
 
