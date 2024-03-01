@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Fenote E-learning site](https://github.com/Jamescog/Fenote)
 
-- 🌱 I’m currently learning **Go, Typescript**
+- 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **Backend Development and Automation**
 
