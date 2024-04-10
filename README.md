@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jamescog" alt="jamesocg" /></a> </p>
 
-- 🔭 I’m currently working on [Fenote E-learning site](https://github.com/Jamescog/Fenote)
-
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Slvete**
 
 - 👯 I’m looking to collaborate on **Backend Development and Automation**
 
-- 💬 Ask me about **Python, JavaScript, Flask, Nodejs,Express,MySQL, SQLite,MongoDB,**
+- 💬 Ask me about **Python, JavaScript, FastAPI, Flask, Nodejs,Express,MySQL Postgre, SQLite,MongoDB,Redis**
 
 - 📫 How to reach me **jamescog72@gmail.com**
 
