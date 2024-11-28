@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jamescog" alt="jamesocg" /></a> </p>
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **Backend Development and Automation**
 
