@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Yaekob Demisse</h1>
-<h3 align="center">🚀 A Passionate Backend Developer from Ethiopia</h3>
+<h1 align="center">Hi there , I'm Yaekob Demisse</h1>
+<h3 align="center">A Passionate Backend Developer from Ethiopia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jamescog&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,12 +9,23 @@
 
 ### 🌟 About Me
 
-- 🌱 **Currently Learning:** Go  
-- 👯 **Looking to Collaborate On:** Backend Development and Automation projects  
+-  **Currently Learning:** Go 🐹  
+- 👯 **Looking to Collaborate On:** Backend Development ⚙️ and Automation projects 🤖  
 - 💬 **Ask Me About:**  
-  Python, JavaScript, FastAPI, Flask, Node.js, Express, MySQL, PostgreSQL, SQLite, MongoDB, Redis  
-- 📫 **How to Reach Me:** [jamescog72@gmail.com](mailto:jamescog72@gmail.com)  
-- ⚡ **Fun Fact:** I'm also a Chemical Engineer!  
+  - Python 🐍  
+  - JavaScript 🌐  
+  - FastAPI ⚡  
+  - Flask 🌿  
+  - Node.js 🛠️  
+  - Express 🚀  
+  - MySQL 🐬  
+  - PostgreSQL 🐘  
+  - SQLite 📦  
+  - MongoDB 🍃  
+  - Redis 🧰  
+- 📫 **How to Reach Me:** [jamescog72@gmail.com](mailto:jamescog72@gmail.com) ✉️  
+- ⚡ **Fun Fact:** I'm also a Chemical Engineer! 🧪  
+
 
 ---
 
@@ -97,6 +108,4 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamescog&layout=compact&hide_title=true&hide=tex%23html&langs_count=16&hide_border=true" />
 </picture>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamescog)](https://github.com/Jamescog/github-readme-stats)
 </p>
