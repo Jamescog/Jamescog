@@ -1,127 +1,72 @@
-<h1 align="center">Hi there, I'm Yaekob Demisse 👋</h1>
-<h3 align="center">A Passionate Backend Developer from Ethiopia</h3>
+<h1 align="center">Hi there, I'm Yaekob Demisse <img src="https://media.giphy.com/media/hvRJCLzz8cJC7kDAmB/giphy.gif" width="30px"></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Backend+Engineer;Cloud+Native+Architect;Chemical+Engineer+🧪;System+Design+Enthusiast" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jamescog&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Jamescog&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
-### 🌟 About Me
+### ⚡ Professional Pulse
 
-- 🔭 **Currently Working On:** Backend development projects
-- 🌱 **Currently Learning:** Go (Golang) 🐹 & Cloud Technologies ☁️
-- 👯 **Looking to Collaborate On:** Open-source backend projects ⚙️ and Automation 🤖  
-- 💬 **Ask Me About:**  
-  - Python 
-  - JavaScript/TypeScript
-  - FastAPI 
-  - Flask   
-  - Node.js 
-  - Express  
-  - Databases (SQL & NoSQL)
-  - RESTful APIs
-- 📫 **How to Reach Me:** [jamescog72@gmail.com](mailto:jamescog72@gmail.com) ✉️  
-- ⚡ **Fun Fact:** I'm also a Chemical Engineer! 🧪⚗️
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      
+#### 🔭 Current Focus
+- 🏗️ Building **Scalable & Distributed** backend architectures
+- ☁️ Designing **Cloud-Native** solutions and microservices
+- 🤖 Automating workflows for **Developer Productivity**
 
----
+#### 💬 Let's Talk About
+- **System Design** & Performance Optimization
+- **Modern Backend Stacks** (Go, Python, Node)
+- **Database Engineering** & Schema Design
+    </td>
+    <td width="50%" valign="top">
 
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yaekob" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/yaekob" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://t.me/JamescoG" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Jamescog" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
+#### 📬 Connect With Me
+<p align="left">
+<a href="mailto:jamescog72@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/yaekob"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/JamescoG"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
+
+#### 🧪 Fun Fact
+> I transition from **Chemical Engineering** formulas to **Backend Architecture** logic with the same precision! ⚗️ ⮕ 💻
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <!-- Programming Languages -->
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://go.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  
-  <!-- Backend Frameworks -->
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  
-  <!-- DevOps & Tools -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **Frameworks** | ![Echo](https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=gofiber&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Performance Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jamescog&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamescog&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jamescog&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamescog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jamescog&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jamescog&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jamescog&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
