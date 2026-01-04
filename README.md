@@ -67,4 +67,4 @@
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jamescog)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Jamescog&theme=nightowl)](https://git.io/streak-stats)
